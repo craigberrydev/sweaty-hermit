@@ -73,7 +73,7 @@ excerpt: "When people used to need luck in their life, they’d take the left hi
 image: "/assets/rabbit-foot.png"
 ---
 
-When people used to need luck in their life, they’d take the left hind foot of a rabbit, pickle it in alcohol and carry it in their pocket as a charm. It probably had a comforting placebo effect, but did it actually cause change? Of course not. But it gave them the feeling of control — a ritual that made them think they were addressing the problem.
+When people used to need luck in their life, they’d take the left hind foot of a rabbit, pickle it in alcohol and carry it in their pocket as a charm. It probably had a comforting placebo effect, but did it actually cause change? Of course not. But it gave them the feeling of control: a ritual that made them think they were addressing the problem.
 
 In many companies today, the equivalent ritual is the in-person meeting. Something feels uncertain? Something feels stuck? Better gather everyone into a room (or Zoom call) and make some reassuring noises at each other. Surely something will happen.
 
@@ -81,9 +81,9 @@ The reality is: just like a pocket with a charm in it doesn't alter reality, dra
 
 ### Flow is fragile
 
-Anyone who’s coded knows that focus is a hard-won state. You need to load a mental map of the system, keep multiple threads of logic in your head, and hold all the “what-ifs” and “but-thens” in balance. That state is called flow.
+Anyone who has coded knows that focus is a hard-won state. You need to load a mental map of the system, keep multiple threads of logic in your head, and hold all the “what-ifs” and “but-thens” in balance. That state is called flow.
 
-Now imagine you’re in the middle of it and — ding! — a meeting reminder pops up. Doesn’t matter if it’s “just a quick stand-up.” Once the spell is broken, it takes an average of ** 23 minutes ** to regain the same level of focus. ([Mark et al., UC Irvine study](https://www.ics.uci.edu/~gmark/chi08-mark.pdf)). That’s 23 minutes multiplied by however many engineers you’ve just pulled away.
+Now imagine you’re in the middle of it and ** ding! ** a meeting reminder pops up. Doesn’t matter if it’s “just a quick stand-up.” Once the spell is broken, it takes around ** 20 minutes ** to regain the same level of focus. ([Mark et al., UC Irvine study](https://www.ics.uci.edu/~gmark/chi08-mark.pdf)). That’s 20 minutes multiplied by however many engineers you’ve just pulled away.
 
 ### The superstition of presence
 
@@ -93,17 +93,17 @@ But presence is not productivity. And meetings, when overused, are just rituals 
 
 ### What works instead
 
-The antidote isn’t no meetings ever. It’s treating meetings like fire alarms — break glass only when necessary. A weekly check-in to reset priorities? Great. A live conversation to resolve an emotional or high-stakes issue? Sometimes vital.
+The antidote isn’t no meetings ever. It’s treating meetings like fire alarms: break glass only when necessary. A weekly check-in to reset priorities? Great. A live conversation to resolve an emotional or high-stakes issue? Sometimes vital.
 
 But the daily or ad-hoc syncs that creep in “just because” should be replaced with async tools:
 
-• Clear documentation (Notion, Confluence, Markdown — pick your poison).
+• Clear documentation (Notion, Confluence, Markdown: pick your poison).
 
 • Well-structured Slack or Teams threads.
 
 • GitHub Issues, pull requests, or project boards that track progress visibly without interrupting flow.
 
-• These give everyone visibility without demanding everyone’s presence.
+These give everyone visibility without demanding everyone’s presence.
 
 ### Closing thought
 
